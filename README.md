@@ -27,8 +27,9 @@ I come from the world of political science and public administration.
 <p>
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/452236/vscode.svg" alt="VSCode" width="45" height="45"/>
-  &nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+          
   <img src="https://www.svgrepo.com/show/452236/sql.svg" alt="SQL" width="45" height="45"/>
 </p>
 
