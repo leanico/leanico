@@ -54,10 +54,9 @@ I come from the world of political science and public administration.
 
 ### GitHub Stats
 
-### GitHub Stats
-
 ![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leanico&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=leanico&bg_color=ffffff&color=000000&line=0084ff&point=00ff00)
+
 
 
