@@ -10,15 +10,13 @@ I come from the world of political science and public administration.
 
 ### Programming Languages
 <p>
-  <img src="https://www.svgrepo.com/show/452210/r.svg" alt="R" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/374171/rstudio.svg" alt="RStudio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/452236/c-programming-language.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/452210/java.svg" alt="Java" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/374171/python.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
 </p>
 
 ---
@@ -30,7 +28,7 @@ I come from the world of political science and public administration.
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual" width="45" height="45"/>
           
-  <img src="https://www.svgrepo.com/show/452236/sql.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL" width="45" height="45"/>
 </p>
 
 ---
