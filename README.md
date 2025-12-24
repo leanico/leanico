@@ -1,6 +1,6 @@
 # Hello there, I'm Leandro 👋
 
-I am currently a student at 42 (in that parallel world I am Leaherre), where I am focusing on improving my skills in C and Python. Additionally, I completed Data Analytics courses at CoderHouse and Google. In the future, I am very interested in cybersecurity.
+I´m currently a student at 42 (in that parallel world I am Leaherre), where I am focusing on improving my skills in C and Python. Additionally, I completed Data Analytics courses at CoderHouse and Google. In the future, I am very interested in cybersecurity.
 
 I am passionate about technological challenges and always looking to learn new technologies and improve my skills.
 
