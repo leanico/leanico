@@ -33,19 +33,6 @@ I come from the world of political science and public administration.
 
 ---
 
-### 42 Projects
-
-- [**Proyecto 1**](https://github.com/leanico/proyecto1)  
-  Descripción breve del proyecto.
-
-- [**Proyecto 2**](https://github.com/leanico/proyecto2)  
-  Descripción breve del proyecto.
-
-- [**Proyecto 3**](https://github.com/leanico/proyecto3)  
-  Descripción breve del proyecto.
-
----
-
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/leandro-herrera-costas/)  
 - 📧 **Correo:** leandroherreracostas@gmail.com
