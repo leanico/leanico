@@ -10,28 +10,26 @@ I come from the world of political science and public administration.
 
 ### Programming Languages
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" alt="R" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452210/r.svg" alt="R" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RStudio-Logo.svg/512px-RStudio-Logo.svg.png" alt="RStudio" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/374171/rstudio.svg" alt="RStudio" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452236/c-programming-language.svg" alt="C" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Java_programming_language_logo.svg/512px-Java_programming_language_logo.svg.png" alt="Java" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452210/java.svg" alt="Java" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Python_logo_2020.svg/512px-Python_logo_2020.svg.png" alt="Python" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/374171/python.svg" alt="Python" width="45" height="45"/>
 </p>
 
 ---
 
 ### Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Visual_Studio_Logo_2019.svg" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SQL_Server_Logo.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452236/vscode.svg" alt="VSCode" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Git_logo.svg" alt="Git" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452236/sql.svg" alt="SQL" width="45" height="45"/>
 </p>
 
 ---
